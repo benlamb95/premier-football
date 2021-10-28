@@ -75,11 +75,15 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: #303159;
+    color:  #303159;
+    background: #FFD700;
+    padding: 5px 10px;
+    border-radius: 15px 50px;
 }
 
 nav a:hover {
-    border-bottom: 1px solid #303159;
+    color:  #FFD700;
+    background: #303159;
 }
 
 /*----Hero Image ---- */
