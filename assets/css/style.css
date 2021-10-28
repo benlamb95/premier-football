@@ -131,6 +131,7 @@ nav a:hover {
     padding-left: 10px;
 
     background-color: rgba(26, 42, 90, .6);
+    border-radius: 15px 50px;
 
     bottom: 30px;
     left: 500px;
