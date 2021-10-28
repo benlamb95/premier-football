@@ -11,6 +11,7 @@
 
 header {
     background: #FFD700;
+    z-index: 1;
 }
 
 header::after {
@@ -77,14 +78,22 @@ nav a:hover {
 /*----Hero Image ---- */
 
 #hero-outer {
-    height: 600px;
+    height: 400px;
     width:100%;
 }
 
 #hero-image {
-    height: 600px;
+    height: 400px;
     width:100%;
-    background: url(../images/training-image1.jfif) no-repeat center center;
-    
+    background: url(../images/training-image1.jfif) no-repeat center center; 
+    animation: hero-zoom 6s forwards;
 }
 
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
