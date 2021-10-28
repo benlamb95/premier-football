@@ -73,3 +73,18 @@ nav a {
 nav a:hover {
     border-bottom: 1px solid #303159;
 }
+
+/*----Hero Image ---- */
+
+#hero-outer {
+    height: 600px;
+    width:100%;
+}
+
+#hero-image {
+    height: 600px;
+    width:100%;
+    background: url(../images/training-image1.jfif) no-repeat center center;
+    
+}
+
