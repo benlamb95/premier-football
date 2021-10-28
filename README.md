@@ -31,7 +31,7 @@ This site will provide potential players and their parents information about the
 * Credits
 
 * Acknowledgements
-
+---
 ## UX
 * This website was created to show my knowledge of HTML and CSS and to provide users with visual and educational content
 * The site should be simple to navigate
@@ -39,8 +39,7 @@ This site will provide potential players and their parents information about the
 
 * Site Goals:
     * To showcase my skills in HTML and CSS
-    * To provide users with an easy to understand and easy to navigate website
-    * To provide users with enough information to return to the website for projects and/or education
-    * To make the site easily accessible
-
+    * To provide users with an easy to understand and navigate website
+ 
+ ---   
 ## User Stories
