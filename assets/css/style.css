@@ -14,12 +14,13 @@ header {
     height: 90px;
 
 }
-
+/*----Kevin Powell YouTube video---- */
 header::after {
     content: '';
     display: table;
     clear: both;
 }
+/*----X Kevin Powell YouTube video X---- */
 
 body {
     font-family: Signika, sans-serif;
@@ -35,7 +36,7 @@ h1 {
 }
 
 h2 {
-    ont-family: Dosis, sans-serif;
+    font-family: Dosis, sans-serif;
     color: #303159;
     font-size: 2rem;
 }
@@ -48,7 +49,7 @@ sup {
 
 .logo-nav {
     margin: 0;
-    line-height: 60px;
+    line-height: 80px;
 }
 
 #logo {
@@ -86,11 +87,18 @@ nav a:hover {
     background: #303159;
 }
 
-/*----Hero Image ---- */
+/*----Hero Image and hero cover text ---- */
+/*---Code found from Love Running project run through----*/
 
 #hero-outer {
     height: 400px;
     width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#hero-text, #hero-text h2 {
+    color: #FFD700;
 }
 
 #hero-image {
@@ -106,6 +114,25 @@ nav a:hover {
     }
 
     to {
-        transform: scale(1.1);
+        transform: scale(1.05);
     }
+}
+
+#hero-question {
+    font-family: Dosis, sans-serif;
+    font-size: 150%;
+    letter-spacing: 3px;
+    text-align: center;
+
+    width: 400px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(26, 42, 90, .6);
+
+    bottom: 30px;
+    left: 500px;
+    position: absolute;
 }
