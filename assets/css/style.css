@@ -137,3 +137,9 @@ nav a:hover {
     left: 500px;
     position: absolute;
 }
+
+/*----YouTube style ---- */
+
+#youtube {
+    display: block;
+}

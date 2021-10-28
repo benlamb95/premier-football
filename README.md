@@ -30,7 +30,13 @@ This site will provide potential players and their parents information about the
 
 * Credits
 
-* Acknowledgements
+* Content
+
+* Media
+
+* Other Sources
+
+   
 ---
 ## UX
 * This website was created to show my knowledge of HTML and CSS and to provide users with visual and educational content
@@ -43,3 +49,24 @@ This site will provide potential players and their parents information about the
  
  ---   
 ## User Stories
+
+
+
+
+
+
+
+
+
+
+## Credits
+
+* @OkwudiriOkoro- My mentor has been a huge help throughout this project. Providing much needed experience and guidance.
+* The slack community for their constant support 24/7. Providing valuable help and feedback from people in ranging positions such as fellow students.
+* And of course the Code Institute programme, which has took me from a complete novice in coding to someone who now can write and read HTML and CSS in just 1 month.   
+
+## Media
+* YouTube video came from UK trials official YouTube site. 
+* Marcus Rashford, Angel Gomes and Phil Foden image located via google images from football manager 22 game.
+* All coaches located from shutterstock via a free download
+* Hero image with players playing football located from unsplash.com which again allows the use of free images. 
