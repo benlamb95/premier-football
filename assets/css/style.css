@@ -140,6 +140,9 @@ nav a:hover {
 
 /*----YouTube style ---- */
 
-#youtube {
+div > iframe {
     display: block;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
 }
