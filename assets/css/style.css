@@ -40,7 +40,7 @@ h1 {
 
 h2 {
     font-family: Dosis, sans-serif;
-    color: #303159;
+    color: #FFD700;
     font-size: 2rem;
 }
 
@@ -159,7 +159,7 @@ div>iframe {
 .testimonal-wrapper {
     height: 35.5em;
     max-width: 100%;
-    font-family: 'Signika', sans-serif;
+    font-family: inherit;
     background-color: rgba(26, 42, 90, .9);
     padding-top: 20px;
     padding-left: 15px;
