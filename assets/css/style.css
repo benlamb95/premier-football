@@ -184,12 +184,12 @@ div>iframe {
 }
 
 #rash-box, #foden-box, #gomes-box  {
-    height: 600px;
+    height: 400px;
     width: 600px;
     background-color: rgba(26, 42, 90, .8);
     border-radius: 15px 50px;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 30px;
     box-shadow: 5px 10px;
 }
 
@@ -198,45 +198,9 @@ div>iframe {
     max-width: 150px;
 }
 
-
-
-/*
-.testimonal-wrapper {
-    height: 35.5em;
-    width: 100%;
-    font-family: inherit;
-    margin: 40px 20px;
-    padding: 20px 0 15px 15px;
+.testimonal-wrapper p {
+    margin: 10px 0 20px;
+    justify-content: center;
+    color: #fff;
 }
 
-.testimonal-wrapper div {
-    width: 33%;
-    height: 600px;
-    float: left;
-    padding: 40px 0 0 40px;
-    text-align: center;
-    border: 1px solid white;
-    box-sizing: border-box;
-}
-
-#rash-box, #foden-box, #gomes-box {
-    background-color: rgba(26, 42, 90, .9);
-    border-radius: 15px 50px;
-    overflow: hidden;
-}
-
-#rash-box img {
-    max-height: 100px;
-    max-width: 100px;
-}
-
-#foden-box img {
-    max-height: 100px;
-    max-width: 100px;
-}
-
-#gomes-box img {
-    max-height: 100px;
-    max-width: 100px;
-}
-*/
