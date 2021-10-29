@@ -216,7 +216,7 @@ div>iframe {
     align-items: center;
 }
 
-#meet-button {
+#meet-button, #timetable-button {
     border-radius: 40px;
     background-color: rgba(26, 42, 90, .8);
     border: none;
@@ -225,11 +225,9 @@ div>iframe {
     font-size: 28px;
     padding: 20px;
     width: 500px;
-    transition: all 0.5s;
-    cursor: pointer;
     margin: 50px 30px;
 }
-
+/*
 #timetable-button {
     border-radius: 40px;
     background-color: rgba(26, 42, 90, .8);
@@ -239,10 +237,8 @@ div>iframe {
     font-size: 28px;
     padding: 20px;
     width: 500px;
-    transition: all 0.5s;
-    cursor: pointer;
     margin: 50px 30px;
-}
+}*/
 
 #sign-button {
     border-radius: 40px;
