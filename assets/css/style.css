@@ -14,16 +14,19 @@ header {
     height: 90px;
 
 }
+
 /*----Kevin Powell YouTube video---- */
 header::after {
     content: '';
     display: table;
     clear: both;
 }
+
 /*----X Kevin Powell YouTube video X---- */
 
 body {
     font-family: Signika, sans-serif;
+    font-size: 18px;
     color: black;
     font-weight: 300;
     background-color: rgb(255, 255, 255);
@@ -76,14 +79,14 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color:  #303159;
+    color: #303159;
     background: #FFD700;
     padding: 5px 10px;
     border-radius: 15px 50px;
 }
 
 nav a:hover {
-    color:  #FFD700;
+    color: #FFD700;
     background: #303159;
 }
 
@@ -97,7 +100,8 @@ nav a:hover {
     position: relative;
 }
 
-#hero-text, #hero-text h2 {
+#hero-text,
+#hero-text h2 {
     color: #FFD700;
 }
 
@@ -140,13 +144,35 @@ nav a:hover {
 
 /*----YouTube style ---- */
 
-div > iframe {
+div>iframe {
     display: block;
     align-items: center;
     justify-content: center;
     margin: auto;
     padding: 30px;
-    background-color:rgba(26, 42, 90);
+    background-color: rgba(26, 42, 90, .9);
     border-radius: 15px 50px;
+}
+
+/*----Testimonals ---- */
+
+.testimonal-wrapper {
+    height: 35.5em;
+    max-width: 100%;
+    font-family: 'Signika', sans-serif;
+    background-color: rgba(26, 42, 90, .9);
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.testimonal-wrapper div {
+    width: 33%;
+    height: 600px;
+    float: left;
+    padding: 40px 0 0 10px;
+    text-align: center;
+    border: 1px solid white;
+    box-sizing: border-box;
 }
 
