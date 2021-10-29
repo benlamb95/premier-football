@@ -217,13 +217,14 @@ div>iframe {
     width: 100%;
 }
 
-#meet-button, #timetable-button {
+#meet-button,
+#timetable-button {
     border-radius: 40px;
     background-color: rgba(26, 42, 90, .8);
     border: none;
     color: #FFD700;
     text-align: center;
-    font-family: Dosis,sans-serif;
+    font-family: Dosis, sans-serif;
     font-size: 28px;
     padding: 20px;
     width: 500px;
@@ -237,7 +238,7 @@ div>iframe {
     border: none;
     color: rgba(26, 42, 90, .8);
     text-align: center;
-    font-family: Dosis,sans-serif;
+    font-family: Dosis, sans-serif;
     font-size: 28px;
     padding: 20px;
     width: 500px;
@@ -253,4 +254,26 @@ div>iframe {
 
 #timetable-button:hover {
     background-color: rgba(1, 14, 53, 0.8);
+}
+
+#sign-button:hover {
+    background-color: #dbbb02;
+}
+
+#meet-button:active {
+    background-color: rgba(1, 14, 53, 0.8);
+    box-shadow: 0 5px #666;
+    transform: translateY(5px);
+}
+
+#timetable-button:active {
+    background-color: rgba(1, 14, 53, 0.8);
+    box-shadow: 0 5px #666;
+    transform: translateY(5px);
+}
+
+#sign-button:active {
+    background-color: #dbbb02;
+    box-shadow: 0 5px #666;
+    transform: translateY(5px);
 }
