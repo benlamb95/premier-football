@@ -148,7 +148,7 @@ div>iframe {
     display: block;
     align-items: center;
     justify-content: center;
-    margin: 30px auto;
+    margin: 40px auto;
     padding: 30px;
     background-color: rgba(26, 42, 90, .9);
     border-radius: 15px 50px;
@@ -171,9 +171,14 @@ div>iframe {
     width: 600px;
     background-color: rgba(26, 42, 90, .8);
     border-radius: 15px 50px;
+    text-align: center;
+    padding-top: 20px;
 }
 
-
+.testimonal-wrapper img {
+    max-height: 150px;
+    max-width: 150px;
+}
 
 
 
