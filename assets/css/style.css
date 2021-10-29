@@ -41,7 +41,13 @@ h1 {
 h2 {
     font-family: Dosis, sans-serif;
     color: #FFD700;
-    font-size: 2rem;
+    font-size: 2em;
+}
+
+h3 {
+    font-family: Dosis, sans-serif;
+    color: #FFD700;
+    font-size: 1em;
 }
 
 sup {
