@@ -154,6 +154,16 @@ div>iframe {
     border-radius: 15px 50px;
 }
 
+/*--Subheading--*/
+
+.subheading h2 {
+    color: #303159;
+    font-size: 2em;
+    letter-spacing: 3px;
+    text-align: center;
+    text-decoration: underline;
+}
+
 /*--Professional player testimonals--*/
 
 .testimonal-wrapper {
