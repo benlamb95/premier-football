@@ -169,7 +169,7 @@ div>iframe {
     letter-spacing: 3px;
     text-align: center;
     text-decoration: underline;
-    margin-top: 30px Add;
+    margin-top: 30px;
 }
 
 /*--Professional player testimonals--*/
@@ -216,7 +216,7 @@ div>iframe {
 }
 
 #meet-button {
-    border-radius: 4px;
+    border-radius: 40px;
     background-color: rgba(26, 42, 90, .8);
     border: none;
     color: #FFD700;
@@ -226,6 +226,19 @@ div>iframe {
     width: 500px;
     transition: all 0.5s;
     cursor: pointer;
-    margin: 5px;
+    margin: 15px;
 }
 
+#sign-button {
+    border-radius: 40px;
+    background-color: #FFD700;
+    border: none;
+    color: rgba(26, 42, 90, .8);
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 500px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 15px;
+}
