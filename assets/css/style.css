@@ -152,6 +152,7 @@ div>iframe {
     padding: 30px;
     background-color: rgba(26, 42, 90, .9);
     border-radius: 15px 50px;
+    box-shadow: 5px 10px;
 }
 
 /*--Subheading--*/
@@ -183,6 +184,7 @@ div>iframe {
     border-radius: 15px 50px;
     text-align: center;
     padding-top: 20px;
+    box-shadow: 5px 10px;
 }
 
 .testimonal-wrapper img {
