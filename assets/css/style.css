@@ -294,7 +294,8 @@ footer {
 
 .social-links i {
     font-size: 2em;
-    margin: 30px;
+    margin: 15px 30px;
     padding: 5%;
-    color: rgb(117, 114, 114);
+    color: rgba(1, 14, 53, 0.8);
 }
+
