@@ -74,12 +74,9 @@ sup {
     font-size: 1em;
 }
 
-nav ul {
-    list-style: none;
-}
-
 nav li {
     display: inline-block;
+    list-style: none;
     margin: 0 50px 0 0;
 }
 
@@ -279,3 +276,25 @@ div>iframe {
 }
 
 /*--Footer--*/
+
+footer {
+    background: #FFD700;
+    height: 130px;
+    overflow: hidden;
+}
+
+.social-links {
+    text-align: center;
+}
+
+.social-links > li {
+    display: inline-block;
+    align-items: center;
+}
+
+.social-links i {
+    font-size: 2em;
+    margin: 30px;
+    padding: 5%;
+    color: rgb(117, 114, 114);
+}
