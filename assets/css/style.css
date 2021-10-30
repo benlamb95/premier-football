@@ -145,6 +145,20 @@ nav a:hover {
     position: absolute;
 }
 
+/*----Main text Paragraph ---- */
+
+.index-intro {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.index-intro strong {
+    color: #FFD700;
+    background: #303159;
+}
+
+
+
 /*----YouTube style ---- */
 
 div>iframe {
