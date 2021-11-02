@@ -313,12 +313,12 @@ div>iframe {
 
 #sign-button:visited {
     text-decoration: none;
-    color: #dbbb02;
+    color: rgba(1, 14, 53, 0.8);
 }
 
 #sign-button a {
     text-decoration: none;
-    color: #dbbb02;
+    color: rgba(1, 14, 53, 0.8);
 }
 
 /*--Footer--*/
