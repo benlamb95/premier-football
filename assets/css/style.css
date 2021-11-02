@@ -295,10 +295,30 @@ div>iframe {
     transform: translateY(5px);
 }
 
+#timetable-button:visited {
+    text-decoration: none;
+    color: #dbbb02;
+}
+
+#timetable-button a {
+    text-decoration: none;
+    color: #dbbb02;
+}
+
 #sign-button:active {
     background-color: #dbbb02;
     box-shadow: 0 5px #666;
     transform: translateY(5px);
+}
+
+#sign-button:visited {
+    text-decoration: none;
+    color: #dbbb02;
+}
+
+#sign-button a {
+    text-decoration: none;
+    color: #dbbb02;
 }
 
 /*--Footer--*/
