@@ -55,7 +55,13 @@ This site will provide potential players and their parents information about the
  
  ---   
 ## User Stories
-
+* As a user, I want be able to understand the information presented and leave me with no further questions
+* As a user, I want to understand the main purpose of the site
+* As a user, I want to be able to navigate through the site easily and provided constant feedback
+* As a user, I want the site to be attractive to look at
+* As a user, I want to be drawn into signing up for the football training
+* As a user, I want view images and see videos of the work that is done at Premier FC
+* As a user, I want social media links to be able to keep upto date with the latest information.
 
 
 
