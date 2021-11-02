@@ -356,5 +356,14 @@ footer p {
 
 /*--Coaches Page--*/
 
+.coach-heading {
+    color: rgba(1, 14, 53, 0.8);
+}
 
+#coach-vinny {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 50px;
+}
 
