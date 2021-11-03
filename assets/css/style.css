@@ -370,7 +370,7 @@ footer p {
     color: #FFD700;
 }
 
-/*--Coach Vinnie--*/
+/*--Coach Vinny--*/
 
 .coach-vinny {
     display: inline-flex;
@@ -387,6 +387,9 @@ footer p {
     margin-left: 20px;
 }
 
+#vinny-image img {
+    border-radius: 50%;
+}
 /*--Coach Leroy--*/
 
 .coach-leroy {
@@ -402,6 +405,10 @@ footer p {
 .coach-leroy p {
     text-align: center;
     margin-right: 20px;
+}
+
+#leroy-image img {
+    border-radius: 50%;
 }
 
 /*--Coach Haris--*/
@@ -421,6 +428,10 @@ footer p {
     margin-left: 20px;
 }
 
+#haris-image img {
+    border-radius: 50%;
+}
+
 /*--Coach Ibrahim--*/
 
 .coach-ibrahim {
@@ -436,4 +447,8 @@ footer p {
 .coach-ibrahim p {
     text-align: center;
     margin-right: 20px;
+}
+
+#ibrahim-image img {
+    border-radius: 50%;
 }
