@@ -356,3 +356,17 @@ footer p {
 
 /*--Coaches Page--*/
 
+.coach-heading {
+    text-align: center;
+    background-color: rgba(26, 42, 90, .8);
+    border-radius: 15px 50px;
+    height: 400px;
+    width: 250px;
+    float: right;
+}
+
+.coach-vinny {
+    display: inline-flex;
+    margin: 40px 40px 0;
+    padding: 20px;
+}
