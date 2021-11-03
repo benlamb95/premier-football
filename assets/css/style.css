@@ -355,7 +355,7 @@ footer p {
 }
 
 /*--Coaches Page--*/
-
+/*--Coach Vinnie Ryan--*/
 .coach-heading {
     text-align: center;
     vertical-align: middle;
@@ -363,7 +363,6 @@ footer p {
     border-radius: 15px 50px;
     height: 200px;
     width: 260px;
-  
 }
 
 .coach-vinny {
@@ -376,7 +375,13 @@ footer p {
     margin-top: 30px;
 }
 
+.coach-heading p {
+    color: #FFD700;
+}
+
 .coach-vinny p {
     text-align: center;
     margin-left: 20px;
 }
+
+/*--Coach Leroy--*/
