@@ -361,8 +361,8 @@ footer p {
     background-color: rgba(26, 42, 90, .8);
     border-radius: 15px 50px;
     height: 400px;
-    width: 250px;
-    float: right;
+    width: 600px;
+    margin-left: 20px;
 }
 
 .coach-vinny {
