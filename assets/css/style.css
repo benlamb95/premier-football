@@ -361,8 +361,13 @@ footer p {
     vertical-align: middle;
     background-color: rgba(26, 42, 90, .8);
     border-radius: 15px 50px;
+    box-shadow: 5px 10px;
     height: 200px;
     width: 260px;
+}
+
+.coach-heading p {
+    color: #FFD700;
 }
 
 /*--Coach Vinnie--*/
@@ -374,11 +379,7 @@ footer p {
     align-items: center;
     gap: 20px;
     width: 100%;
-    margin-top: 30px;
-}
-
-.coach-heading p {
-    color: #FFD700;
+    margin: 30px;
 }
 
 .coach-vinny p {
@@ -395,7 +396,7 @@ footer p {
     align-items: center;
     gap: 20px;
     width: 100%;
-    margin-top: 30px;
+    margin: 30px;
 }
 
 .coach-leroy p {
