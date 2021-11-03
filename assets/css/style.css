@@ -355,7 +355,7 @@ footer p {
 }
 
 /*--Coaches Page--*/
-/*--Coach Vinnie Ryan--*/
+
 .coach-heading {
     text-align: center;
     vertical-align: middle;
@@ -364,6 +364,8 @@ footer p {
     height: 200px;
     width: 260px;
 }
+
+/*--Coach Vinnie Ryan--*/
 
 .coach-vinny {
     display: inline-flex;
@@ -385,3 +387,18 @@ footer p {
 }
 
 /*--Coach Leroy--*/
+
+.coach-leroy {
+    display: inline-flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.coach-leroy p {
+    text-align: center;
+    margin-right: 20px;
+}
