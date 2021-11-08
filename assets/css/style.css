@@ -31,6 +31,7 @@ body {
     color: black;
     font-weight: 300;
     background-color: rgb(255, 255, 255);
+    text-align: center;
 }
 
 h1 {
@@ -324,7 +325,6 @@ div>iframe {
 /*--Footer--*/
 
 footer {
-    position: fixed;
     background: #FFD700;
     height: 130px;
     overflow: hidden;
