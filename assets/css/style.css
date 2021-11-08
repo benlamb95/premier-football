@@ -324,9 +324,11 @@ div>iframe {
 /*--Footer--*/
 
 footer {
+    position: fixed;
     background: #FFD700;
     height: 130px;
     overflow: hidden;
+    width: 100%;
 }
 
 .social-links {
@@ -399,4 +401,9 @@ footer p {
     width: 300px;
     background-color: rgba(1, 14, 53, 0.8);
     border-radius: 15px 50px;
+}
+
+.coaches-images img {
+    max-height: 100px;
+    max-width: 150px;
 }
