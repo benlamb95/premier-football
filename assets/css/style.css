@@ -369,7 +369,7 @@ footer p {
 .vinnie  {
     grid-column: 2/3;
     grid-row: 1/2;
-    height: 300px;
+    height: 400px;
     width: 300px;
     background-color: rgba(1, 14, 53, 0.8);
     border-radius: 15px 50px;
@@ -379,7 +379,7 @@ footer p {
 .leroy   {
     grid-column: 3/4;
     grid-row: 1/2;
-    height: 300px;
+    height: 400px;
     width: 300px;
     background-color: rgba(1, 14, 53, 0.8);
     border-radius: 15px 50px;
@@ -388,7 +388,7 @@ footer p {
 .haris {
     grid-column: 2/3;
     grid-row: 2/3;
-    height: 300px;
+    height: 400px;
     width: 300px;
     background-color: rgba(1, 14, 53, 0.8);
     border-radius: 15px 50px;
@@ -397,13 +397,14 @@ footer p {
 .ibrahim    {
     grid-column: 3/4;
     grid-row: 2/3;
-    height: 300px;
+    height: 400px;
     width: 300px;
     background-color: rgba(1, 14, 53, 0.8);
     border-radius: 15px 50px;
 }
 
-.coaches-images img {
-    max-height: 100px;
-    max-width: 150px;
+.coaches-image {
+    height: 190px;
+    width: 150px;
+    border-radius: 50%;
 }
