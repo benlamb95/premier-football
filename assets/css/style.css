@@ -12,6 +12,7 @@
 header {
     background: #FFD700;
     height: 90px;
+    max-width: 100%;
 
 }
 
@@ -26,7 +27,7 @@ header::after {
 
 body {
     font-family: Signika, sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     color: black;
     font-weight: 300;
     background-color: rgb(255, 255, 255);
@@ -35,13 +36,13 @@ body {
 h1 {
     font-family: Dosis, sans-serif;
     color: #303159;
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 h2 {
     font-family: Dosis, sans-serif;
     color: #FFD700;
-    font-size: 2em;
+    font-size: 1em;
 }
 
 h3 {
@@ -198,17 +199,16 @@ div>iframe {
 #rash-box,
 #foden-box,
 #gomes-box {
-    height: 400px;
+    height: 300px;
     width: 400px;
     background-color: rgba(26, 42, 90, .8);
     border-radius: 15px 50px;
     text-align: center;
-    padding-top: 30px;
-    box-shadow: 5px 10px;
+    padding-top: 10px;
 }
 
 .testimonal-wrapper img {
-    max-height: 150px;
+    max-height: 100px;
     max-width: 150px;
 }
 
@@ -237,7 +237,7 @@ div>iframe {
     text-align: center;
     font-family: Dosis, sans-serif;
     font-size: 28px;
-    padding: 20px;
+    padding: 10px;
     width: 250px;
     margin: 50px 30px;
     box-shadow: 0 9px #999;
@@ -251,9 +251,9 @@ div>iframe {
     text-align: center;
     font-family: Dosis, sans-serif;
     font-size: 28px;
-    padding: 20px;
+    padding: 10px;
     width: 250px;
-    margin: 50px 30px;
+    margin: 50px 10px;
     box-shadow: 0 9px #999;
 }
 
