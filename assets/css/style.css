@@ -404,7 +404,10 @@ footer p {
 }
 
 .coaches-image {
+    margin-top: 5px;
     height: 150px;
     width: 150px;
     border-radius: 50%;
+    border: 2px solid #FFD700;
+    padding: 10px;
 }
