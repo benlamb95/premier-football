@@ -445,5 +445,5 @@ footer p {
 
 #coaches-card:hover {
     transform: scale(1.10);
-    transition: all 200ms ease-in-out;
+    transition: all 300ms ease-in-out;
 }
