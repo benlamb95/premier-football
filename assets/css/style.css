@@ -404,6 +404,8 @@ footer p {
     border-radius: 15px 50px;
 }
 
+/*--Coaches card image, text style--*/
+
 .coaches-image {
     margin-top: 5px;
     height: 150px;
@@ -413,8 +415,25 @@ footer p {
     padding: 5px;
 }
 
+#coaches-info h2 {
+    text-transform: uppercase;
+    font-size: 20px;
+    padding-bottom: 5px;
+    
+}
+
 #coaches-info p {
     color: #fff;
+    font-size: 16px;
+    text-decoration: overline;
+    
+}
+
+#coaches-info li {
+    margin-top: 3px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
 }
 
 /*--Coaches Page animation--*/
