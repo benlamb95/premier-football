@@ -437,6 +437,10 @@ footer p {
     font-size: 14px;
 }
 
+#coaches-info i {
+    color: #FFD700;
+}
+
 /*--Coaches Page animation--*/
 
 #coaches-card:hover {
