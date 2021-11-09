@@ -413,6 +413,10 @@ footer p {
     padding: 5px;
 }
 
+#coaches-info p {
+    color: #fff;
+}
+
 /*--Coaches Page animation--*/
 
 #coaches-card:hover {
