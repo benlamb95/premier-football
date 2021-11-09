@@ -219,7 +219,7 @@ div>iframe {
     color: #fff;
 }
 
-/*--index buttons with internal links--*/
+/*-- buttons with internal links--*/
 
 .index-button-wrapper {
     display: inline-flex;
@@ -258,7 +258,7 @@ div>iframe {
     box-shadow: 0 9px #999;
 }
 
-/*--index buttons animation--*/
+/*-- buttons animation--*/
 
 #meet-button:hover {
     background-color: rgba(1, 14, 53, 0.8);
@@ -357,6 +357,7 @@ footer p {
 }
 
 /*--Coaches Page--*/
+/*--Grid template design with help from stack overflow--*/
 
 #coaches-info {
     display: grid;
@@ -409,5 +410,8 @@ footer p {
     width: 150px;
     border-radius: 50%;
     border: 2px solid #FFD700;
-    padding: 10px;
+    padding: 5px;
 }
+
+/*--Coaches Page animation--*/
+
