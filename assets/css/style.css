@@ -416,6 +416,6 @@ footer p {
 /*--Coaches Page animation--*/
 
 #coaches-card:hover {
-    transform: scale(1.12);
+    transform: scale(1.10);
     transition: all 200ms ease-in-out;
 }
