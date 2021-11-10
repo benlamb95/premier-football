@@ -177,7 +177,7 @@ nav a:hover {
 
 /*----YouTube style ---- */
 
-div>iframe {
+.youtube > iframe {
     display: block;
     align-items: center;
     justify-content: center;
@@ -495,5 +495,13 @@ footer p {
     float: left;
     border: 5px solid #fff;
     box-sizing: border-box;
+    text-align: center;
 }
 
+/*--Google map--*/
+
+#map {
+    background-color: #fff;
+    border-radius: 0;
+    box-shadow: 0px;
+}
