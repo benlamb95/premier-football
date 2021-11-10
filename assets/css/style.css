@@ -455,14 +455,16 @@ footer p {
 
 /*--Prices info--*/
 
-.prices {
-    max-width: 1900px;
-}
-
 .prices > h3 {
     padding-top: 10px;
 }
 
 .prices > p {
     padding-top: 10px;
+}
+
+#contact {
+    background-color: rgba(1, 14, 53, 0.8);
+    color: #FFD700;
+    text-decoration: underline;
 }
