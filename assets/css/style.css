@@ -40,6 +40,17 @@ h1 {
     font-size: 2rem;
 }
 
+/*--Subheading--*/
+
+.subheading h2 {
+    color: #303159;
+    font-size: 2em;
+    letter-spacing: 3px;
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 30px;
+}
+
 h2 {
     font-family: Dosis, sans-serif;
     color: #FFD700;
@@ -172,17 +183,6 @@ div>iframe {
     background-color: rgba(26, 42, 90, .9);
     border-radius: 15px 50px;
     box-shadow: 5px 10px;
-}
-
-/*--Subheading--*/
-
-.subheading h2 {
-    color: #303159;
-    font-size: 2em;
-    letter-spacing: 3px;
-    text-align: center;
-    text-decoration: underline;
-    margin-top: 30px;
 }
 
 /*--Professional player testimonals--*/
