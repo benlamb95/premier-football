@@ -478,3 +478,12 @@ footer p {
 }
 
 /*--Sessions  image--*/
+
+#sessiontimes {
+    background-image: url(../images/sessions-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    background-position: center;
+    overflow: hidden;
+}
