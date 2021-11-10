@@ -457,6 +457,7 @@ footer p {
 
 .prices > h3 {
     padding-top: 10px;
+    font-weight: bold;
 }
 
 .prices > p {
@@ -467,4 +468,11 @@ footer p {
     background-color: rgba(1, 14, 53, 0.8);
     color: #FFD700;
     text-decoration: underline;
+}
+
+#contact:hover {
+    background-color: #FFD700;
+    color: rgba(1, 14, 53, 0.8);
+    text-decoration: underline;
+    font-weight: bold;
 }
