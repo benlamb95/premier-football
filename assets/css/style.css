@@ -459,3 +459,10 @@ footer p {
     max-width: 1900px;
 }
 
+.prices > h3 {
+    padding-top: 10px;
+}
+
+.prices > p {
+    padding-top: 10px;
+}
