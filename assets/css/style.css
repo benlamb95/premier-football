@@ -487,3 +487,13 @@ footer p {
     background-position: center;
     overflow: hidden;
 }
+
+#sessiontimes div {
+    background-color: rgba(1, 14, 53, 0.3);
+    width:20%;
+    height:250px;
+    float: left;
+    border: 5px solid #fff;
+    box-sizing: border-box;
+}
+
