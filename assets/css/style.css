@@ -200,7 +200,7 @@ nav a:hover {
     margin-top: 30px;
 }
 
-#players-box {
+.players-box {
     height: 300px;
     width: 400px;
     background-color: rgba(26, 42, 90, .8);
@@ -209,7 +209,7 @@ nav a:hover {
     padding-top: 10px;
 }
 
-#players-box:hover {
+.players-box:hover {
     transform: scale(1.10);
     transition: all 300ms ease-in-out;
 }
@@ -235,8 +235,8 @@ nav a:hover {
     width: 100%;
 }
 
-#meet-button,
-#timetable-button {
+.meet-button,
+.timetable-button {
     border-radius: 40px;
     background-color: rgba(26, 42, 90, .8);
     border: none;
@@ -250,7 +250,7 @@ nav a:hover {
     box-shadow: 0 9px #999;
 }
 
-#sign-button {
+.sign-button {
     border-radius: 40px;
     background-color: #FFD700;
     border: none;
@@ -266,19 +266,19 @@ nav a:hover {
 
 /*-- buttons animation--*/
 
-#meet-button:hover {
+.meet-button:hover {
     background-color: rgba(1, 14, 53, 0.8);
 }
 
-#timetable-button:hover {
+.timetable-button:hover {
     background-color: rgba(1, 14, 53, 0.8);
 }
 
-#sign-button:hover {
+.sign-button:hover {
     background-color: #dbbb02;
 }
 
-#meet-button:active {
+.meet-button:active {
     background-color: rgba(1, 14, 53, 0.8);
     box-shadow: 0 5px #666;
     transform: translateY(5px);
@@ -286,44 +286,44 @@ nav a:hover {
     color: #dbbb02;
 }
 
-#meet-button:visited {
+.meet-button:visited {
     text-decoration: none;
     color: #dbbb02;
 }
 
-#meet-button a {
+.meet-button a {
     text-decoration: none;
     color: #dbbb02;
 }
 
-#timetable-button:active {
+.timetable-button:active {
     background-color: rgba(1, 14, 53, 0.8);
     box-shadow: 0 5px #666;
     transform: translateY(5px);
 }
 
-#timetable-button:visited {
+.timetable-button:visited {
     text-decoration: none;
     color: #dbbb02;
 }
 
-#timetable-button a {
+.timetable-button a {
     text-decoration: none;
     color: #dbbb02;
 }
 
-#sign-button:active {
+.sign-button:active {
     background-color: #dbbb02;
     box-shadow: 0 5px #666;
     transform: translateY(5px);
 }
 
-#sign-button:visited {
+.sign-button:visited {
     text-decoration: none;
     color: rgba(1, 14, 53, 0.8);
 }
 
-#sign-button a {
+.sign-button a {
     text-decoration: none;
     color: rgba(1, 14, 53, 0.8);
 }
@@ -519,3 +519,6 @@ footer p {
     border-radius: 0;
     box-shadow: 0px;
 }
+
+/*--Coaches sign up button--*/
+
