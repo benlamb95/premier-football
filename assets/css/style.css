@@ -505,6 +505,10 @@ footer p {
     text-align: center;
 }
 
+.session-heading {
+    color: #fff;
+}
+
 /*--Google map--*/
 
 #map {
