@@ -16,7 +16,7 @@ header {
 
 }
 
-/*----Kevin Powell YouTube video---- */
+/*----W3 schools---- */
 header::after {
     content: '';
     display: table;
@@ -60,7 +60,7 @@ h2 {
 
 h3 {
     font-family: Dosis, sans-serif;
-    color: #303159;
+    color: #FFD700;
     text-decoration: underline;
     font-size: 1em;
     text-align: center;
@@ -334,6 +334,12 @@ footer {
     width: 100%;
 }
 
+footer:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
 .social-links {
     text-align: center;
 }
@@ -456,6 +462,7 @@ footer p {
 /*--Prices info--*/
 
 .prices > h3 {
+    color: rgba(1, 14, 53, 0.8);
     padding-top: 10px;
     font-weight: bold;
 }
@@ -489,7 +496,7 @@ footer p {
 }
 
 #sessiontimes div {
-    background-color: rgba(1, 14, 53, 0.3);
+    background-color: rgba(1, 14, 53, 0.4);
     width:20%;
     height:250px;
     float: left;
