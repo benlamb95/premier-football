@@ -540,10 +540,16 @@ footer p {
     color: #fff;
     background-color: rgba(1, 14, 53, 0.4);
     position: absolute;
-    margin: 200px 50% 0 0;
+    margin: 200px 20%;
     left: 20%;
     max-width: 500px;
     height: 400px;
     border: 2px solid #FFD700;
     border-radius: 15px 50px;
+}
+
+.signup-form > h2 {
+    color: #fff;
+    font-size: 2rem;
+    margin: 10px 0px 20px;
 }
