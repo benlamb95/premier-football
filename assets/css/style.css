@@ -538,7 +538,7 @@ footer p {
 
 .signup-form {
     color: #fff;
-    background-color: rgba(1, 14, 53, 0.4);
+    background-color: rgba(1, 14, 53, 0.8);
     position: absolute;
     margin: 100px 20%;
     left: 20%;
@@ -546,13 +546,13 @@ footer p {
     height: 500px;
     border: 2px solid #FFD700;
     border-radius: 15px 50px;
-    padding: 20px;
+    padding: 30px;
 }
 
 .signup-form>h2 {
     color: #fff;
     font-size: 2rem;
-    margin: 10px 0px 20px;
+    margin: 0px 0px 20px;
 }
 
 /*--Text input--*/
@@ -589,4 +589,42 @@ OPTION {
     background-color: #303245;
     font-style: italic;
     font-weight: bold;
+}
+
+/*--Reset button--*/
+
+.form-buttons {
+    display: flex;
+    flex: inline-block;
+    align-items: center;
+    justify-content: center;
+    column-gap: 30px;
+}
+
+.reset-button {
+    margin-top: 40px;
+    border-radius: 12px;
+    padding: 15px 15px;
+    text-align:center;
+    font-size:100%;
+    background-color:#fff;
+    color:#f70808;
+} 
+
+.reset-button:hover {
+    color: #fff;
+    background-color: #f70808;
+}
+
+/*--Sign-up button--*/
+
+.signup-button {
+    margin-top: 40px;
+    border-radius: 12px;
+    padding: 15px 15px;
+    text-align:center;
+    font-size:100%;
+    font-weight: 800;
+    background-color: #FFD700;
+    color: rgba(1, 14, 53, 0.8);
 }
