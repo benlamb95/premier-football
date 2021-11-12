@@ -628,7 +628,11 @@ OPTION {
     text-align:center;
     font-size:100%;
     font-weight: 800;
-    background-color: #FFD700;
+    background-color: #b99e04;
     color: rgba(1, 14, 53, 0.8);
     cursor: pointer;
+}
+
+.signup-button:hover {
+    background-color: #FFD700;
 }
