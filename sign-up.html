@@ -38,15 +38,41 @@
 
         </nav>
     </header>
-    <section class="signup-container">
+    <section class="form-section">
+        <form action="#" method="get" class="signup-form">
+            <h2>Sign up! <i class="fas fa-file-signature" aria-hidden="true"></i></h2>
+            <label for="fname" class="fname">First Name</label>
+            <input type="text" id="fname" name="fname" placeholder="First Name" class="form-input" required>
+            <label for="lname" class="lname">Surname</label>
+            <input type="text" id="lname" name="lname" placeholder="Surname" class="form-input" required>
+            <label for="email" class="email">Email Address</label>
+            <input type="email" id="email" name="email" placeholder="example@mail.com" class="form-input" required>
+            <label for="phone" class="phone">Phone Number</label>
+            <input type="tel" id="phone" name="phone" placeholder="XXXXX-XXX-XXX" class="form-input" required>
+            <label for="position">Select your position:</label>
+            <select name="position" id="position">
+                <option value="goalkeeper">Goalkeeper</option>
+                <option value="defender">Defender</option>
+                <option value="midfielder">Midfielder</option>
+                <option value="attacker">Attacker</option>
+            </select>
+            <label for="sessions">Number of sessions</label>
+            <input type="radio" id="1-2" name="no-sessions" value="1-2">
+            <label for="html">1-2 Sessions</label><br>
+            <input type="radio" id="3-5" name="no-sessions" value="3-5">
+            <label for="3-5">3-5 Sessions</label><br>
+            <input type="radio" id="5" name="no-sessions" value="5">
+            <label for="5">5 Sessions</label>
+        </form>
+    </section>
+
+    <section>
         <div class="contact-info">
             Contact info
         </div>
-        
-        <div class="signup-form">
-            Sign up form with background image
-        </div>
     </section>
+
+
 
     <footer>
         <p>Find us on socials:</p>
