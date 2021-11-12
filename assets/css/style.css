@@ -540,8 +540,8 @@ footer p {
     color: #fff;
     background-color: rgba(1, 14, 53, 0.8);
     position: absolute;
-    margin: 100px 20%;
-    left: 20%;
+    margin: 100px;
+    left: 25%;
     max-width: 500px;
     height: 500px;
     border: 2px solid #FFD700;
@@ -602,23 +602,26 @@ OPTION {
 }
 
 .reset-button {
+    width: 100px;
     margin-top: 40px;
     border-radius: 12px;
     padding: 15px 15px;
-    text-align:center;
-    font-size:100%;
-    background-color:#fff;
-    color:#f70808;
-} 
+    text-align: center;
+    font-size: 100%;
+    background-color: #fff;
+    color: #303245;
+    cursor: pointer;
+}
 
 .reset-button:hover {
     color: #fff;
-    background-color: #f70808;
+    background-color: #303245;
 }
 
 /*--Sign-up button--*/
 
 .signup-button {
+    width: 100px;
     margin-top: 40px;
     border-radius: 12px;
     padding: 15px 15px;
@@ -627,4 +630,5 @@ OPTION {
     font-weight: 800;
     background-color: #FFD700;
     color: rgba(1, 14, 53, 0.8);
+    cursor: pointer;
 }
