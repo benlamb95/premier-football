@@ -177,7 +177,7 @@ nav a:hover {
 
 /*----YouTube style ---- */
 
-.youtube > iframe {
+.youtube>iframe {
     display: block;
     align-items: center;
     justify-content: center;
@@ -347,7 +347,7 @@ footer:after {
     text-align: center;
 }
 
-.social-links > li {
+.social-links>li {
     display: inline-block;
     align-items: center;
 }
@@ -379,7 +379,7 @@ footer p {
     padding-top: 40px;
 }
 
-.vinnie  {
+.vinnie {
     grid-column: 2/3;
     grid-row: 1/2;
     height: 380px;
@@ -389,7 +389,7 @@ footer p {
 
 }
 
-.leroy   {
+.leroy {
     grid-column: 3/4;
     grid-row: 1/2;
     height: 380px;
@@ -407,7 +407,7 @@ footer p {
     border-radius: 15px 50px;
 }
 
-.ibrahim    {
+.ibrahim {
     grid-column: 3/4;
     grid-row: 2/3;
     height: 380px;
@@ -431,7 +431,7 @@ footer p {
     text-transform: uppercase;
     font-size: 20px;
     padding-bottom: 5px;
-    
+
 }
 
 #coaches-info p {
@@ -439,7 +439,7 @@ footer p {
     font-size: 16px;
     text-decoration: overline;
     padding-bottom: 3px;
-    
+
 }
 
 #coaches-info li {
@@ -464,13 +464,13 @@ footer p {
 
 /*--Prices info--*/
 
-.prices > h3 {
+.prices>h3 {
     color: rgba(1, 14, 53, 0.8);
     padding-top: 10px;
     font-weight: bold;
 }
 
-.prices > p {
+.prices>p {
     padding-top: 10px;
 }
 
@@ -500,8 +500,8 @@ footer p {
 
 #sessiontimes div {
     background-color: rgba(1, 14, 53, 0.4);
-    width:20%;
-    height:250px;
+    width: 20%;
+    height: 250px;
     float: left;
     border: 5px solid #fff;
     box-sizing: border-box;
@@ -549,11 +549,13 @@ footer p {
     padding: 20px;
 }
 
-.signup-form > h2 {
+.signup-form>h2 {
     color: #fff;
     font-size: 2rem;
     margin: 10px 0px 20px;
 }
+
+/*--Text input--*/
 
 .form-input {
     color: #fff;
@@ -570,6 +572,21 @@ footer p {
 .form-input:hover {
     border-color: #FFD700;
 }
-.form-input:active {
-    border-color: #FFD700;
+
+/*--Dropdown options--*/
+
+SELECT {
+    color: #fff;
+    background-color: #303245;
+    width: 100%;
+    border: solid 1px #FFD700;
+    font-weight: bold;
+    text-align: center;
+}
+
+OPTION {
+    color: #fff;
+    background-color: #303245;
+    font-style: italic;
+    font-weight: bold;
 }
