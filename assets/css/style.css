@@ -528,28 +528,3 @@ footer p {
 
 /*--Sign Up Page--*/
 
-.signup-container {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.signup-container > .contact-info {
-    flex: 1 1 30%;
-    background-color: blue;
-    min-height: 100vh;
-    max-height: 1080px;
-    
-}
-
-.signup-container > .signup-form {
-    flex: 1 1 70%;
-    background-image: url(../images/signup-football.jpg);
-    min-height: 100vh;
-    max-height: 1080px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 100%;
-    background-position: center;
-    overflow: hidden;
-    background-color: #fff;
-}
