@@ -146,16 +146,12 @@ nav a:hover {
     font-size: 150%;
     letter-spacing: 3px;
     text-align: center;
-
     width: 400px;
     height: 200px;
-
     padding-top: 40px;
     padding-left: 10px;
-
     background-color: rgba(26, 42, 90, .6);
     border-radius: 15px 50px;
-
     bottom: 30px;
     left: 500px;
     position: absolute;
@@ -631,8 +627,8 @@ OPTION {
     margin-top: 40px;
     border-radius: 12px;
     padding: 15px 15px;
-    text-align:center;
-    font-size:100%;
+    text-align: center;
+    font-size: 100%;
     font-weight: 800;
     background-color: #cfb108;
     color: rgba(1, 14, 53, 0.8);
@@ -657,3 +653,58 @@ OPTION {
     text-align: center;
     padding: 20px;
 }
+
+/*--Thank you page--*/
+
+.thankyou-image {
+    background-image: url(../images/thankyou-image.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 1080px;
+}
+
+.thankyou-text {
+
+    font-family: Dosis, sans-serif;
+    font-size: 150%;
+    letter-spacing: 3px;
+    text-align: center;
+    width: 400px;
+    height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+    background-color: rgba(26, 42, 90, .6);
+    border-radius: 15px 50px;
+    bottom: 50%;
+    left: 60%;
+    position: absolute;
+}
+
+
+/* ---laptop size---
+.thankyou-image {
+    background-image: url(../images/thankyou-image.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 700px;
+}
+
+.thankyou-text {
+
+    font-family: Dosis, sans-serif;
+    font-size: 150%;
+    letter-spacing: 3px;
+    text-align: center;
+    width: 400px;
+    height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+    background-color: rgba(26, 42, 90, .6);
+    border-radius: 15px 50px;
+    bottom: 30%;
+    left: 60%;
+    position: absolute;
+}
+*/
