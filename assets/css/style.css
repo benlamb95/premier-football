@@ -442,6 +442,7 @@ footer p {
     margin-top: 3px;
     color: #fff;
     text-decoration: none;
+    list-style: none;
     font-size: 14px;
 }
 
