@@ -125,37 +125,6 @@ nav a:hover {
     display: none;
 }
 
-/*----Media Queries for nav bar and logo for larger screens ---- */
-/*---Coding help from codingNepal youtube video---*/
-@media (max-width: 1330px) {
-    .checkbtn-nav {
-        display: block;
-    }
-    #navbar  {
-        position: fixed;
-        z-index: 2;
-        width: 100%;
-        height: 100vh;
-        background: #FFD700;
-        top: 90px;
-        left: -100%;
-        text-align: center;
-    
-    }
-    #navbar li {
-        display: block;
-    }
-
-   #nav-checkbox:checked ~ ul {
-       left: 0;
-       transition: .6s;
-   }
-
-   #hero-outer {
-       z-index: 1;
-   }
-}
-
 /*----Hero Image and hero cover text ---- */
 /*---Code sourced from Love Running project run through----*/
 
@@ -676,7 +645,7 @@ OPTION {
 
 /*--Sign-up button--*/
 
-.signup-button {
+.signup-btn {
     width: 100px;
     margin-top: 20px;
     border-radius: 12px;
@@ -689,7 +658,7 @@ OPTION {
     cursor: pointer;
 }
 
-.signup-button:hover {
+.signup-btn:hover {
     background-color: #FFD700;
 }
 
@@ -736,6 +705,38 @@ OPTION {
 }
 
 /*--Media Queries--*/
+
+/*----Media Queries for nav bar and logo for larger screens ---- */
+/*---Coding help from codingNepal youtube video---*/
+@media (max-width: 1330px) {
+    .checkbtn-nav {
+        display: block;
+    }
+    #navbar  {
+        position: fixed;
+        z-index: 2;
+        width: 100%;
+        height: 100vh;
+        background: #FFD700;
+        top: 90px;
+        left: -100%;
+        text-align: center;
+    
+    }
+    #navbar li {
+        display: block;
+    }
+
+   #nav-checkbox:checked ~ ul {
+       left: 0;
+       transition: .6s;
+   }
+
+   #hero-outer {
+       z-index: 1;
+   }
+}
+
 
 
 /* ---laptop size---
