@@ -71,7 +71,7 @@ sup {
     font-size: 14px;
 }
 
-/*----Logo and Nav ---- */
+/*----Logo and Nav bar ---- */
 
 .logo-nav {
     margin: 0;
@@ -110,6 +110,18 @@ nav a:hover {
     color: #FFD700;
     background: #303159;
     transition: .5s;
+}
+
+.checkbtn-nav {
+    float: right;
+    font-size: 25px;
+    margin-right: 40px;
+    cursor: pointer;
+    display: none;
+}
+
+#nav-checkbox {
+    display: none;
 }
 
 /*----Hero Image and hero cover text ---- */
