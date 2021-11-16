@@ -775,7 +775,28 @@ OPTION {
 
 /*----Media Queries for Medium sized screens---- */
 
+@media (max-width: 900px) {
+    .index-button-wrapper {
+        flex-direction: column;
+        margin: 0;
+    }
 
+    .meet-button,
+    .timetable-button,
+    .sign-button {
+        margin: 15px 0;
+    }
+
+    footer {
+        margin-top: 10px;
+    }
+
+    .thankyou-text {
+        bottom: 40%;
+        left: 45%;
+        position: absolute;
+    }
+}
 
 
 /* ---laptop size---
