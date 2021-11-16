@@ -539,7 +539,7 @@ footer p {
 }
 
 #sessiontimes div {
-    background-color: rgba(1, 14, 53, 0.4);
+    background-color: rgba(1, 14, 53, 0.5);
     width: 20%;
     height: 250px;
     float: left;
@@ -554,7 +554,7 @@ footer p {
 
 #sessiontimes h3 {
     padding-top: 5px;
-    color: black;
+    color: #FFD700;
     font-weight: 800;
 }
 
