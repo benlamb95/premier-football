@@ -376,6 +376,10 @@ footer p {
     text-align: center;
 }
 
+.footer-text {
+    margin: 0 10px 0;
+}
+
 /*--Coaches Page--*/
 /*--Grid template design with help from stack overflow--*/
 
