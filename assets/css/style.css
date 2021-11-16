@@ -127,8 +127,28 @@ nav a:hover {
 
 /*----Media Queries for nav bar and logo for larger screens ---- */
 
-@media (max-width: 1300px){
+@media (max-width: 1300px) {
+    .checkbtn-nav {
+        display: block;
+    }
+    #navbar  {
+        position: fixed;
+        width: 100%;
+        height: 100vh;
+        background: #FFD700;
+        top: 90px;
+        left: -100%;
+        text-align: center;
+    
+    }
+    #navbar li {
+        display: block;
+    }
 
+   #nav-checkbox:checked ~ ul {
+       left: 0;
+       transition: .6s;
+   }
 }
 
 /*----Hero Image and hero cover text ---- */
