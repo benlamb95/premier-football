@@ -127,7 +127,7 @@ nav a:hover {
 
 /*----Media Queries for nav bar and logo for larger screens ---- */
 /*---Coding help from codingNepal youtube video---*/
-@media (max-width: 1300px) {
+@media (max-width: 1330px) {
     .checkbtn-nav {
         display: block;
     }
@@ -539,7 +539,7 @@ footer p {
 }
 
 #sessiontimes div {
-    background-color: rgba(1, 14, 53, 0.5);
+    background-color: rgba(1, 14, 53, 0.6);
     width: 20%;
     height: 250px;
     float: left;
