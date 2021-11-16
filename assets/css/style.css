@@ -242,8 +242,9 @@ nav a:hover {
 .index-button-wrapper {
     display: inline-flex;
     flex-direction: row;
-    justify-content: space-evenly;
-    align-items: center;
+    justify-content: center;
+    align-items: space-between;
+    gap: 10px;
     width: 100%;
 }
 
