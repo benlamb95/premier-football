@@ -520,7 +520,7 @@ footer p {
     box-shadow: 0px;
 }
 
-/*--Coaches sign up button--*/
+/*--Coaches page sign up button--*/
 
 #session-signup {
     margin: 15px 0px 25px 0px;
@@ -579,7 +579,7 @@ SELECT {
     color: #fff;
     background-color: #303245;
     width: 100%;
-    border: solid 1px #FFD700;
+    border: 1px solid #fafafa;
     font-weight: bold;
     text-align: center;
 }
@@ -589,6 +589,12 @@ OPTION {
     background-color: #303245;
     font-style: italic;
     font-weight: bold;
+}
+
+.select-box {
+    border-radius: 12px;
+    margin: 5px 5px;
+    height: 30px;
 }
 
 /*--Reset button--*/
@@ -603,7 +609,7 @@ OPTION {
 
 .reset-button {
     width: 100px;
-    margin-top: 40px;
+    margin-top: 20px;
     border-radius: 12px;
     padding: 15px 15px;
     text-align: center;
@@ -622,7 +628,7 @@ OPTION {
 
 .signup-button {
     width: 100px;
-    margin-top: 40px;
+    margin-top: 20px;
     border-radius: 12px;
     padding: 15px 15px;
     text-align: center;
