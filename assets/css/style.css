@@ -144,7 +144,7 @@ nav a:hover {
 
 #hero-question {
     font-family: Dosis, sans-serif;
-    font-size: 150%;
+    font-size: 1.6em;
     letter-spacing: 3px;
     text-align: center;
     width: 400px;
@@ -154,7 +154,7 @@ nav a:hover {
     background-color: rgba(26, 42, 90, .6);
     border-radius: 15px 50px;
     bottom: 30px;
-    left: 500px;
+    left: 30%;
     position: absolute;
 }
 
