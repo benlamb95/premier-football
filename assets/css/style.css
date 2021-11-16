@@ -735,6 +735,14 @@ OPTION {
    #hero-outer {
        z-index: 1;
    }
+
+   .testimonal-wrapper {
+       flex-direction: column;
+   }
+
+   .players-box {
+       margin-top: 20px;
+   }
 }
 
 
