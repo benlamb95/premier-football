@@ -796,21 +796,52 @@ OPTION {
     }
 }
 
+/*----Media Queries for smaller/Medium sized screens---- */
 @media (max-width: 750px) {
-    #logo   {
+    #logo {
         font-size: 1.4rem;
     }
+
     #hero-question {
         left: 20%;
     }
+
     .youtube>iframe {
         width: 600px;
         height: 500px;
     }
+
+    #coaches-info {
+        display: grid;
+        clear: both;
+    }
+
+    .vinnie,
+    .leroy,
+    .haris,
+    .ibrahim {
+        grid-column: 1 / 5;
+    }
+    .vinnie {
+        grid-row: 1;
+        margin: 0 auto;
+    }
+    .leroy{
+        grid-row: 2;
+        margin: 0 auto;
+    }
+    .haris{
+        grid-row: 3;
+        margin: 0 auto;
+    }
+    .ibrahim{
+        grid-row: 4;
+        margin: 0 auto;
+    }
+
     .thankyou-text {
         left: 25%;
     }
 
 }
-
 
