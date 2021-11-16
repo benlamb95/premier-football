@@ -793,7 +793,6 @@ OPTION {
 
     .thankyou-text {
         left: 38%;
-        position: absolute;
     }
 }
 
@@ -801,11 +800,16 @@ OPTION {
     #logo   {
         font-size: 1.4rem;
     }
+    #hero-question {
+        left: 20%;
+    }
     .youtube>iframe {
         width: 600px;
         height: 500px;
     }
-
+    .thankyou-text {
+        left: 25%;
+    }
 
 }
 
