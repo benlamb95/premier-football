@@ -711,7 +711,7 @@ OPTION {
 
 /*--Media Queries--*/
 
-/*----Media Queries for nav bar and logo for larger screens ---- */
+/*----Media Queries for x-large screens ---- */
 /*---Coding help from codingNepal youtube video---*/
 @media (max-width: 1330px) {
     .checkbtn-nav {
@@ -749,6 +749,19 @@ OPTION {
        margin-top: 20px;
    }
 }
+
+/*----Media Queries for large screens ---- */
+@media (max-width: 1175px) {
+    #sessiontimes > div {
+        width: 100%;
+        clear: both;
+        height: 200px;
+        padding: 0;
+    }
+}
+
+
+
 
 
 
