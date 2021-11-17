@@ -1030,4 +1030,9 @@ OPTION {
     #hero-text h2 {
         font-size: 0.8em;
     }
+
+    .players-box {
+        width: 280px;
+        height: 280px;
+    }
 }
