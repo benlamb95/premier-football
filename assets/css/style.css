@@ -854,11 +854,22 @@ OPTION {
         float: left;
         margin: 0;
         padding: 0 10px;
-        font-size: 1.6em;
+        font-size: 1.4em;
+    }
+
+    #hero-question {
+        bottom: 50px;
+        left: 20%;
+        position: absolute;
+    }
+
+    #hero-text h2 {
+        font-size: 1.4em;
     }
 
     .subheading h2 {
-        font-size: 1.5em;
+        font-size: 1.2em;
+        font-weight: 800;
         margin: 30px 0;
         padding: 0;
     }
@@ -873,15 +884,25 @@ OPTION {
     }
 
     .session-heading {
-        font-size: 1.5em;
+        font-size: 1.2em;
     }
 
     .contact-info h2 {
-        font-size: 1.5em;
+        font-size: 1.2em;
     }
 
     #coaches-card {
         transform: scale(1.05);
         transition: all 300ms ease-in-out;
     }
+
+    .signup-form {
+        width: 350px;
+    }
+
+    .reset-button, .signup-btn {
+        padding: 5px 10px;
+    }
 }
+
+@media (max-width: 550px) {}
