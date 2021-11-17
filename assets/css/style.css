@@ -839,9 +839,12 @@ OPTION {
         margin: 0 auto;
     }
 
+    footer p {
+        font-size: 12px;
+        padding: 0 5px;
+    }
     .thankyou-text {
         left: 25%;
     }
-
 }
 
