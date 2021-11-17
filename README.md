@@ -73,6 +73,27 @@ This site will provide potential players and their parents information about the
 
 ## Wireframes
 
+---
+
+To help plan my site I used Balsamiq to create wireframes. Desktop version can be viewed below:
+
+[Desktop-index](documents/wireframes/index-wireframe.PNG)
+
+[Desktop-Coaches](documents/wireframes/coaches-wireframe.PNG)
+
+[Desktop-Prices](documents/wireframes/timetable-wireframe.PNG)
+
+[Desktop-signup](documents/wireframes/signup-wireframe.PNG)
+
+Mobile version can be viewed below:
+
+[Mobile-index](documents/wireframes/mobile-index.PNG)
+
+[Mobile-coaches](documents/wireframes/coaches-phone.PNG)
+
+[Mobile-prices](documents/wireframes/timetable-phone.PNG)
+
+[Mobile-signup](documents/wireframes/signup-phone.PNG)
 
 ## Testing
 
@@ -115,8 +136,10 @@ This site will provide potential players and their parents information about the
   * Used to store repositories.
 * CHROME Developer tools
   * For checking responsiveness while coding, correcting errors and editing code.
-  * Am I Responsive
+* Am I Responsive
   * Used to test responsiveness of the final website at different screen sizes.
+* Balsamiq
+  * Used to create Wireframes for intial designs for desktop and mobile.
 
 ## Credits
 
