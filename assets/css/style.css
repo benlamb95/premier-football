@@ -866,6 +866,8 @@ OPTION {
     }
 
     #hero-question {
+        height: 200 px;
+        width: 350 px;
         bottom: 50px;
         left: 20%;
         position: absolute;
@@ -926,12 +928,29 @@ OPTION {
         margin: 0;
         padding: 0 5px;
     }
+
     sup {
         font-size: 6px;
     }
 
     .checkbtn-nav {
         font-size: 14px;
+    }
+
+    #hero-outer {
+        height: 300px;
+    }
+
+    #hero-question {
+        height: 150px;
+        width: 300px;
+        bottom: 50px;
+        left: 15%;
+        position: absolute;
+    }
+
+    #hero-text h2 {
+        font-size: 1em;
     }
 
     .youtube>iframe {
