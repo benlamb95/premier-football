@@ -956,6 +956,9 @@ OPTION {
     .youtube>iframe {
         width: 300px;
         height: 250px;
+        padding: 10px;
+        border-radius: 5px 40px;
+        box-shadow: 3px 8px;
     }
 
     .players-box {
