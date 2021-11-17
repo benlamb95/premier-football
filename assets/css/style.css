@@ -798,10 +798,6 @@ OPTION {
 
 /*----Media Queries for smaller/Medium sized screens---- */
 @media (max-width: 750px) {
-    #logo {
-        font-size: 1.4rem;
-    }
-
     #hero-question {
         left: 20%;
     }
