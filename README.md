@@ -4,6 +4,13 @@ Premier Football Coaching is a fictional football coaching site, based in Manche
 
 This site will provide potential players and their parents information about the coaches, provide testimonials from current professional players, times sessions are available and location and the chance to sign up.  
 
+## Final Design
+
+---
+
+### [Here is a link to the final project](https://benlamb95.github.io/premier-football/)
+
+![Final project image home page](documents/responsive-final-image.PNG)
 ---
 ## CONTENTS
 
@@ -12,11 +19,12 @@ This site will provide potential players and their parents information about the
 
 * [WIREFRAMES](#wireframes)
 
-* TESTING
-    * DEVICES
-    * VALIDATORS
-    * LIGHTHOUSE
-    * ACCESSIBILITY
+* [TESTING](#testing)
+  * [TESTING](#testing)
+  * [DEVICES](#devices)
+  * [VALIDATORS](#validators)
+  * [LIGHTHOUSE](#lighthouse)
+
 
 * SOLVED BUGS AND ERRORS
     * UNSOLVED BUGS AND ERRORS
