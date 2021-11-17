@@ -76,7 +76,22 @@ This site will provide potential players and their parents information about the
 
 ## Testing
 
+## Lighthouse
 
+## Home
+![homepage](documents/index-lighthouse.PNG)
+
+## Coaches
+![coacgespage](documents/coaches-lighthouse.PNG)
+
+## Prices & Sessions
+![prices&sessionpage](documents/prices-lighthouse.PNG)
+
+## Sign-Up
+![signpage](documents/signup-lighthouse.PNG)
+
+## Thankyou
+![thankyoupage](documents/thankyou-lighthouse.PNG)
 
 
 
