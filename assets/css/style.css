@@ -1035,4 +1035,17 @@ OPTION {
         width: 280px;
         height: 280px;
     }
+
+    .timetable-button,
+    .meet-button {
+        width: 180px;
+        font-size: 18px;
+        padding: 5 px;
+    }
+
+    .sign-button {
+        width: 180px;
+        font-size: 18px;
+        padding: 5 px;
+    }
 }
