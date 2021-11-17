@@ -306,17 +306,17 @@ nav a:hover {
     box-shadow: 0 5px #666;
     transform: translateY(5px);
     text-decoration: none;
-    color: #dbbb02;
+    color: #FFD700;
 }
 
 .meet-button:visited {
     text-decoration: none;
-    color: #dbbb02;
+    color: #FFD700;
 }
 
 .meet-button a {
     text-decoration: none;
-    color: #dbbb02;
+    color: #FFD700;
 }
 
 .timetable-button:active {
@@ -327,12 +327,12 @@ nav a:hover {
 
 .timetable-button:visited {
     text-decoration: none;
-    color: #dbbb02;
+    color: #FFD700;
 }
 
 .timetable-button a {
     text-decoration: none;
-    color: #dbbb02;
+    color: #FFD700;
 }
 
 .sign-button:active {
