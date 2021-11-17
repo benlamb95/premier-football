@@ -998,6 +998,10 @@ OPTION {
 
 /*----Media Queries for x-small mobile screens---- */
 @media (max-width: 360px) {
+    body {
+        font-size: 14px;
+    }
+
     #logo {
         display: none;
     }
@@ -1018,7 +1022,7 @@ OPTION {
 
     #hero-question {
         height: 130px;
-        width: 200px;
+        width: 250px;
         left: 15%;
         position: absolute;
     }
