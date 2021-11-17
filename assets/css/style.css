@@ -259,7 +259,7 @@ nav a:hover {
 }
 
 .meet-button,
-.timetable-button {
+.prices-button {
     border-radius: 40px;
     background-color: rgba(26, 42, 90, .8);
     border: none;
@@ -293,7 +293,7 @@ nav a:hover {
     background-color: rgba(1, 14, 53, 0.8);
 }
 
-.timetable-button:hover {
+.prices-button:hover {
     background-color: rgba(1, 14, 53, 0.8);
 }
 
@@ -319,18 +319,18 @@ nav a:hover {
     color: #FFD700;
 }
 
-.timetable-button:active {
+.prices-button:active {
     background-color: rgba(1, 14, 53, 0.8);
     box-shadow: 0 5px #666;
     transform: translateY(5px);
 }
 
-.timetable-button:visited {
+.prices-button:visited {
     text-decoration: none;
     color: #FFD700;
 }
 
-.timetable-button a {
+.prices-button a {
     text-decoration: none;
     color: #FFD700;
 }
@@ -794,7 +794,7 @@ OPTION {
     }
 
     .meet-button,
-    .timetable-button,
+    .prices-button,
     .sign-button {
         margin: 15px 0;
     }
@@ -968,7 +968,7 @@ OPTION {
         transform: scale(1);
     }
 
-    .timetable-button,
+    .prices-button,
     .meet-button {
         width: 200px;
         font-size: 20px;
@@ -1045,7 +1045,7 @@ OPTION {
         height: 280px;
     }
 
-    .timetable-button,
+    .prices-button,
     .meet-button {
         width: 180px;
         font-size: 18px;
