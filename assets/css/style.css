@@ -84,6 +84,13 @@ sup {
     margin: 0 0 0 50px;
 }
 
+#logo-short {
+    display: none;
+    float: left;
+    letter-spacing: 3px;
+    margin-right: 10px;
+}
+
 #navbar {
     float: right;
     letter-spacing: 3px;
@@ -849,6 +856,7 @@ OPTION {
     }
 }
 
+/*----Media Queries for small sized screens---- */
 @media (max-width: 630px) {
     #logo {
         float: left;
@@ -900,9 +908,39 @@ OPTION {
         width: 350px;
     }
 
-    .reset-button, .signup-btn {
+    .reset-button,
+    .signup-btn {
         padding: 5px 10px;
     }
 }
 
-@media (max-width: 550px) {}
+/*----Media Queries for x-small sized screens---- */
+@media (max-width: 550px) {
+    #logo {
+        display: none;
+    }
+
+    #logo-short {
+        display: block;
+        font-size: 1em;
+        margin: 0;
+        padding: 0 5px;
+    }
+    sup {
+        font-size: 6px;
+    }
+
+    .checkbtn-nav {
+        font-size: 14px;
+    }
+
+    .youtube>iframe {
+        width: 300px;
+        height: 250px;
+    }
+
+    .players-box {
+        width: 300px;
+        transform: scale(1);
+    }
+}
