@@ -976,4 +976,8 @@ OPTION {
         font-size: 20px;
         padding: 10 px;
     }
+
+    .social-links li a {
+        font-size: 12px;
+    }
 }
