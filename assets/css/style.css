@@ -984,6 +984,10 @@ OPTION {
         font-size: 12px;
     }
 
+    #coaches-card h2 {
+        font-size: 18px;
+    }
+
     .thankyou-text {
         height: 200px;
         width: 300px;
@@ -1047,5 +1051,14 @@ OPTION {
         width: 180px;
         font-size: 18px;
         padding: 5 px;
+    }
+
+    #coaches-card {
+        width: 280px;
+        height: 350px;
+    }
+
+    #coaches-card ul li {
+        font-size: 12px;
     }
 }
