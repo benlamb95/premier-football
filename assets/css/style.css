@@ -860,7 +860,7 @@ OPTION {
     .subheading h2 {
         font-size: 1.5em;
         margin: 0 px;
-        padding: 10 px;
+        padding: 0;
     }
 
     .youtube>iframe {
