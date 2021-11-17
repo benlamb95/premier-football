@@ -719,6 +719,10 @@ OPTION {
     position: absolute;
 }
 
+.thankyou-text a {
+    color: #fafafa;
+}
+
 /*--Media Queries--*/
 
 /*----Media Queries for x-large screens ---- */
@@ -982,5 +986,17 @@ OPTION {
 
     .social-links li a {
         font-size: 12px;
+    }
+
+    .thankyou-text {
+        height: 150px;
+        width: 300px;
+        top: 200px;
+        left: 15%;
+        position: absolute;
+    }
+
+    .thankyou-text h2 {
+        font-size: 1em;
     }
 }
