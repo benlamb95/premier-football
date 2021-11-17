@@ -2,7 +2,7 @@
 
 Premier Football Coaching is a fictional football coaching site, based in Manchester, which offers children, from age 9 up to teenagers aged 18, the chance to be coached by top level ex-academy football coaches for a chance to be scouted by professional football clubs. It will attract former academy players as well, hoping to restart their footballing asperations. The name was created to resemble the elite level of english football; The Premier League. 
 
-This site will provide potential players and their parents information about the coaches, provide testimonials from current professional players, times sessions are available and location and the chance to sign up.  
+This site will provide potential players and their parents information about the coaches, provide testimonials from current professional players, times sessions are available and location and the ability to sign up.  
 
 ## Final Design
 
@@ -30,8 +30,8 @@ This site will provide potential players and their parents information about the
     * UNSOLVED BUGS AND ERRORS
     * FUNCTIONALITY
 
-* TECHNOLOGIES USED
-    * PROGRAMS USED
+* [LANGUAGES USED](#languages-used)
+    * [PROGRAMS USED](#programs-used)
     
 * DEPLOYMENT
 
@@ -76,28 +76,47 @@ This site will provide potential players and their parents information about the
 
 ## Testing
 
+---
+
 ## Lighthouse
 
-## Home
+---
+
+### Home
 ![homepage](documents/index-lighthouse.PNG)
 
-## Coaches
+### Coaches
 ![coacgespage](documents/coaches-lighthouse.PNG)
 
-## Prices & Sessions
+### Prices & Sessions
 ![prices&sessionpage](documents/prices-lighthouse.PNG)
 
-## Sign-Up
+### Sign-Up
 ![signpage](documents/signup-lighthouse.PNG)
 
-## Thankyou
+### Thankyou
 ![thankyoupage](documents/thankyou-lighthouse.PNG)
 
 
 
 
+# Languages Used
 
+* [HTML](https://en.wikipedia.org/wiki/HTML5)
+* [CSS](https://en.wikipedia.org/wiki/CSS#CSS_3)
 
+# Programs Used
+
+* GIT
+  * For version control.
+* GITPOD
+  * The IDE to code this site.
+* GITHUB
+  * Used to store repositories.
+* CHROME Developer tools
+  * For checking responsiveness while coding, correcting errors and editing code.
+  * Am I Responsive
+  * Used to test responsiveness of the final website at different screen sizes.
 
 ## Credits
 
