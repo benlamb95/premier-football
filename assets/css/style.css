@@ -1053,6 +1053,10 @@ OPTION {
         padding: 5 px;
     }
 
+    .social-links li a {
+        font-size: 10px;
+    }
+
     #coaches-card {
         width: 280px;
         height: 350px;
@@ -1060,5 +1064,16 @@ OPTION {
 
     #coaches-card ul li {
         font-size: 12px;
+    }
+
+    .thankyou-text {
+        height: 150px;
+        width: 250px;
+        left: 10%;
+        position: absolute;
+    }
+
+    .thankyou-text h2, p {
+        font-size: .7em;
     }
 }
