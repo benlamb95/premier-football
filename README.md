@@ -20,8 +20,8 @@ This site will provide potential players and their parents information about the
 * [WIREFRAMES](#wireframes)
 
 * [FEATURES](#features)
-  * [COLOURS]{#colours}
-  * [FONT]{#font}
+  * [COLOURS](#colours)
+  * [FONT](#font)
 
 * [TESTING](#testing)
   * [DEVICES](#devices)
