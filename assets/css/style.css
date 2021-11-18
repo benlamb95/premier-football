@@ -261,7 +261,7 @@ nav a:hover {
 }
 
 .meet-button,
-.prices-button  {
+.prices-button {
     border-radius: 40px;
     background-color: rgba(26, 42, 90, .8);
     border: none;
@@ -272,7 +272,7 @@ nav a:hover {
     padding: 10px 20px;
     width: 250px;
     margin: 50px 30px;
-    
+
 }
 
 .sign-button {
@@ -290,7 +290,8 @@ nav a:hover {
 
 /*-- buttons animation--*/
 
-.meet-button:hover, .prices-button:hover {
+.meet-button:hover,
+.prices-button:hover {
     background-color: rgba(1, 14, 53, 0.8);
 }
 
@@ -298,7 +299,8 @@ nav a:hover {
     background-color: #dbbb02;
 }
 
-.meet-button a, .prices-button a {
+.meet-button a,
+.prices-button a {
     text-decoration: none;
     color: #FFD700;
 }
@@ -513,20 +515,12 @@ footer p {
 
 /*--Google map--*/
 
-div > #map {
-    width: 100%;
+.google-map {
     height: 400px;
 }
 
-#map {
-    background-color: #fff;
-    border-radius: 0;
-}
-
-/*--Prices page sign up button--*/
-
-#session-signup {
-    margin: 25px 0px;
+.google-map>iframe {
+    width: 100%;
 }
 
 /*--Sign Up Page--*/
@@ -970,7 +964,8 @@ OPTION {
         position: absolute;
     }
 
-    .thankyou-text h2, p {
+    .thankyou-text h2,
+    p {
         font-size: .8em;
     }
 }
@@ -991,6 +986,7 @@ OPTION {
         margin: 0;
         padding: 0 10px;
     }
+
     .checkbtn-nav {
         font-size: 14px;
     }
@@ -1052,7 +1048,8 @@ OPTION {
         position: absolute;
     }
 
-    .thankyou-text h2, p {
+    .thankyou-text h2,
+    p {
         font-size: .7em;
     }
 }
