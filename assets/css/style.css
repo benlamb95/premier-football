@@ -369,7 +369,7 @@ footer p {
     padding-top: 40px;
 }
 
-.vinnie {
+#vinnie {
     grid-column: 2/3;
     grid-row: 1/2;
     height: 380px;
@@ -379,7 +379,7 @@ footer p {
 
 }
 
-.leroy {
+#leroy {
     grid-column: 3/4;
     grid-row: 1/2;
     height: 380px;
@@ -388,7 +388,7 @@ footer p {
     border-radius: 15px 50px;
 }
 
-.haris {
+#haris {
     grid-column: 2/3;
     grid-row: 2/3;
     height: 380px;
@@ -397,7 +397,7 @@ footer p {
     border-radius: 15px 50px;
 }
 
-.ibrahim {
+#ibrahim {
     grid-column: 3/4;
     grid-row: 2/3;
     height: 380px;
@@ -446,7 +446,7 @@ footer p {
 
 /*--Coaches card animation--*/
 
-#coaches-card:hover {
+.coaches-card:hover {
     transform: scale(1.10);
     transition: all 300ms ease-in-out;
 }
@@ -517,7 +517,7 @@ footer p {
     border-radius: 0;
 }
 
-/*--Coaches page sign up button--*/
+/*--Prices page sign up button--*/
 
 #session-signup {
     margin: 15px 0px 25px 0px;
@@ -792,29 +792,29 @@ OPTION {
         clear: both;
     }
 
-    .vinnie,
-    .leroy,
-    .haris,
-    .ibrahim {
+    #vinnie,
+    #leroy,
+    #haris,
+    #ibrahim {
         grid-column: 1 / 5;
     }
 
-    .vinnie {
+    #vinnie {
         grid-row: 1;
         margin: 0 auto;
     }
 
-    .leroy {
+    #leroy {
         grid-row: 2;
         margin: 0 auto;
     }
 
-    .haris {
+    #haris {
         grid-row: 3;
         margin: 0 auto;
     }
 
-    .ibrahim {
+    #ibrahim {
         grid-row: 4;
         margin: 0 auto;
     }
@@ -874,7 +874,7 @@ OPTION {
         font-size: 1.2em;
     }
 
-    #coaches-card {
+    .coaches-card {
         transform: scale(1.05);
         transition: all 300ms ease-in-out;
     }
@@ -953,7 +953,7 @@ OPTION {
         font-size: 12px;
     }
 
-    #coaches-card h2 {
+    .coaches-card h2 {
         font-size: 18px;
     }
 
@@ -1030,12 +1030,12 @@ OPTION {
         font-size: 10px;
     }
 
-    #coaches-card {
+    .coaches-card {
         width: 280px;
         height: 350px;
     }
 
-    #coaches-card ul li {
+    .coaches-card ul li {
         font-size: 12px;
     }
 
