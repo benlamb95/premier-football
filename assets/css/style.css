@@ -642,8 +642,8 @@ OPTION {
 }
 
 .signup-btn:hover {
-    color: #303245;
-    background-color: #FFD700;
+    color: #FFD700;
+    background-color: #303245;
 }
 
 /*--Contact info--*/
