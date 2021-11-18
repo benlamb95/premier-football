@@ -20,6 +20,8 @@ This site will provide potential players and their parents information about the
 * [WIREFRAMES](#wireframes)
 
 * [FEATURES](#features)
+  * [COLOURS]{#colours}
+  * [FONT]{#font}
 
 * [TESTING](#testing)
   * [DEVICES](#devices)
@@ -172,6 +174,13 @@ Each page follows a similar design style for all devices which includes a Naviga
 
  * This is a very basic page containing a bakground image and overlaying text confirming the form has been submitted. 
 
+---
+
+## COLOURS
+  * For my site I used 4 main colours. Gold (#FFD700), Dark Blue (rgba(26, 42, 90, .8), 303159) and white and black.
+  * The gold was used to represent quality hence the name Premier but also be eye catching and stand out.
+  * The dark blue was a good colour contrast and also a powerful colour. I used both hex and RGBA values as in some cases i required the colour opacity to fade on images.
+  * White was present through for white space and black as it contrast's well and is easy to read. 
 
 ## Testing
 
