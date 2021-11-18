@@ -187,6 +187,15 @@ Each page follows a similar design style for all devices which includes a Naviga
 
 ## Testing
 
+## VALIDATORS
+* Tes
+* I ran my code through W3C CSS Validator. Initially i recieved some errors. 
+  * Due to incorrect spacing between numbers and px values which I corrected.
+  * I had used the incorrect flex direction again corrected.
+  * I also removed code not needed for my google map.
+  * I checked with the validator again and found no errors. 
+
+
 ---
 
 ## Lighthouse

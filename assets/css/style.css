@@ -269,8 +269,8 @@ nav a:hover {
     text-align: center;
     font-family: Dosis, sans-serif;
     font-size: 28px;
-    padding: 10px;
-    width: 280px;
+    padding: 10px 20px;
+    width: 250px;
     margin: 50px 30px;
     
 }
@@ -283,10 +283,9 @@ nav a:hover {
     text-align: center;
     font-family: Dosis, sans-serif;
     font-size: 28px;
-    padding: 10px;
-    width: 280px;
-    margin: 50px 10px;
-    
+    width: 250px;
+    padding: 10px 20px;
+    margin: 50px 30px;
 }
 
 /*-- buttons animation--*/
