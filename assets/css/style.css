@@ -321,7 +321,6 @@ nav a:hover {
 /*--Footer--*/
 
 footer {
-    position: relative;
     background: #FFD700;
     height: 130px;
     overflow: hidden;
@@ -756,14 +755,16 @@ OPTION {
     }
 
     .index-button-wrapper {
-        flex-direction: column;
+        flex-flow: column wrap;
+        justify-content: space-evenly;
         margin: 0;
+        height: 250px;
     }
 
     .meet-button,
     .prices-button,
     .sign-button {
-        margin: 15px 0;
+        margin-top: 15px;
     }
 
     footer {
