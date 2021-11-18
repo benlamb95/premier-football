@@ -33,6 +33,8 @@ This site will provide potential players and their parents information about the
    
 * [UNSOLVED BUGS AND ERRORS](#unsolved-bugs-and-errors)
 
+* [Linking To User Stories](#linking-to-user-stories) 
+
 * [LANGUAGES USED](#languages-used)
     * [PROGRAMS USED](#programs-used)
     
@@ -271,6 +273,37 @@ Each page follows a similar design style for all devices which includes a Naviga
 * Issue while testing in fire fox would cause my Players and Coaches boxes to flicker the full border rather than the applied border radius style, when the mouse would intially hover over them. This doesnt always happen however.
 * The navigation bar for smaller devices also doesnt appear on the thank you page. I tried resolving this by copying the exact code from all my other pages but this didnt work. I then tried creating a test page but again this wouldnt work.
   * To get around this issue I have added a link, to go to index page, within the text infront of my image on that page.
+
+
+## Linking To User Stories
+
+`As a user, I want be able to understand the information presented and leave me with no further questions`:
+
+* Text, images, and videos all aid to help understand the information presented. Users can find out who PFC is, the coaches and their qualifications, Prices and session times and contact info.
+
+`As a user, I want to understand the main purpose of the site`:
+
+* The main purpose of the site is to attract young footballers and progress them to  a potential football academy. I have used rhetorical questions to capture the users attention, videos thoroughly explain how this can be achieved along with text to support this.
+
+`As a user, I want to be able to navigate through the site easily and provided constant feedback`:
+
+* A navigation bar is present throughout pages, with good contrasting colours and a clear hover effect. Buttons are also included towards the bottom of page so no scroll is required to get to next page. Submit form his linked to a thank you page.
+
+`As a user, I want the site to be attractive to look at`:
+
+* I have used a very eye catching gold colour for header and footer and for certain text elements. I have used large images that scale and player and coaches card with animations.
+
+`As a user, I want to be drawn into signing up for the football training`:
+
+* Throughout each page a sign up button is present with a different colour compared to either coaches or sessions to stand out. Information and videos aim to attract interest from users to sign up.
+
+`As a user, I want view images and see videos of the work that is done at Premier FC`:
+
+* Images are used on all pages and i have included videos on how PFC work and will help them progress and included a training video.
+
+`As a user, I want social media links to be able to keep upto date with the latest information`:
+
+* Social links can be found within the footer of all pages. These open in a new browser so the user doesnt have to use the back button and lose their position on the site.
 
 ---
 
