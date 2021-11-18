@@ -241,6 +241,10 @@ nav a:hover {
     max-width: 150px;
 }
 
+.players-box h3 {
+    text-decoration: none;
+}
+
 .testimonal-wrapper p {
     margin: 10px 10px 20px;
     justify-content: center;

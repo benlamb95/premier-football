@@ -22,15 +22,14 @@ This site will provide potential players and their parents information about the
 * [FEATURES](#features)
 
 * [TESTING](#testing)
-  * [TESTING](#testing)
   * [DEVICES](#devices)
   * [VALIDATORS](#validators)
   * [LIGHTHOUSE](#lighthouse)
 
 
 * SOLVED BUGS AND ERRORS
-    * UNSOLVED BUGS AND ERRORS
-    * FUNCTIONALITY
+   
+* UNSOLVED BUGS AND ERRORS
 
 * [LANGUAGES USED](#languages-used)
     * [PROGRAMS USED](#programs-used)
@@ -117,7 +116,7 @@ Each page follows a similar design style for all devices which includes a Naviga
 ![Mobile-Navbar](documents/features/navbar-small.png)
 
 * Internal buttons 
-  * Feature on all pages same style and size with 'press down' animation once clicked for user feedback.
+  * Feature on all pages except once user on that specific page the button will not appear; same style and size with 'press down' animation once clicked for user feedback.
 
 ![Internal-buttons](documents/features/navigationbuttons.png)
 
@@ -125,6 +124,38 @@ Each page follows a similar design style for all devices which includes a Naviga
   * Again consistent in style and ccolour featuring social media links that open in a new browser tab.
 
 ![Footer](documents/features/footer.png)
+
+## Home page
+
+* The home page consists of a landing page image which scales in the picture slighlty upon arrival to catch the users attention.
+* It also has a rhetorical question to again peak the users attention.
+
+![hero-image](documents/features/heroimage.png)
+
+* Initial text introduces the users to who Premier football coaching are and what they do, tied in with a video for a greater user experience.
+
+* It contains testimonals from current proffessional football players wrapped in a box consistent in shape and colour with hover effect on Nav bar and text on main image.
+
+![players](documents/features/players.png)
+
+## Coaches Page
+
+* Coaches page was designed to be eye catching a resemble a football card e.g. Panini sticker. Again the background colour and shape is the same as elements mentioned previously.
+* Cards increase in size slighlty when hovered over
+
+![coaches](documents/features/coaches.png)
+
+* YouTube video features again under the coaches information to provide users and insght of a training session.
+* This should encourage users knowledge of how sessions are done and should prompt excitement.
+
+## Prices and sessions Page
+
+* This page is sectioned into 3 main parts, Prices, training sessions and then location.
+  * Prices section is just information about how much each session costs, terms of when a session is booked and plyer safety.
+
+* The session section contain an image divided into 5 equal segments all containing information about the day, session type, times and age group.
+
+![sessions](documents/features/sessions.png)
 
 
 ## Testing
@@ -192,6 +223,7 @@ Each page follows a similar design style for all devices which includes a Naviga
 * Marcus Rashford, Angel Gomes and Phil Foden image located via google images from football manager 22 game.
 * All coaches located from Istockphoto via a free download
 * Hero image with players playing football, prices and timetable image split into 5 sections, sign up page image and thank-you page image all from unsplash.com which again allows the use of free images. 
+* Scale of image on index page inspiration came from Codeinstitute Love Running project
 
 ## Other-Sources
 * Responsive navigation bar came from a youtube channel called CodingNepal
