@@ -249,7 +249,9 @@ nav a:hover {
 
 /*-- buttons with internal links--*/
 
-.index-button-wrapper {
+.index-button-wrapper,
+.coaches-button-wrapper,
+.prices-button-wrapper {
     display: inline-flex;
     flex-direction: row;
     justify-content: center;
@@ -761,14 +763,15 @@ OPTION {
         height: 250px;
     }
 
-    .meet-button,
-    .prices-button,
-    .sign-button {
-        margin-top: 15px;
+    .coaches-button-wrapper {
+        flex-flow: column wrap;
+        justify-content: space-evenly;
+        margin: 0;
+        height: 200px;
     }
 
     footer {
-        margin-top: 10px;
+        margin-top: 5px;
     }
 
     .thankyou-text {
