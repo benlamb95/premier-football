@@ -19,6 +19,8 @@ This site will provide potential players and their parents information about the
 
 * [WIREFRAMES](#wireframes)
 
+* [FEATURES](#features)
+
 * [TESTING](#testing)
   * [TESTING](#testing)
   * [DEVICES](#devices)
@@ -95,6 +97,36 @@ Mobile version can be viewed below:
 
 [Mobile-signup](documents/wireframes/signup-phone.PNG)
 
+## FEATURES
+
+---
+
+The site consists of 4 main pages; Home/Index page, Coaches, Prices and sessions, Sign-up and additionally a thank you page once the user has submitted the form. 
+
+
+Each page follows a similar design style for all devices which includes a Navigation bar- containing a logo and navigation links, Internal buttons linking to other pages towards the bottom of each page and a footer for social media links, terms and conditions.
+
+* Navigation bar
+  * Identical on all pages for easy navigation
+  * Hover effect on links to ensure user is given feedbak and they know where they are positioned on the screen.
+
+![Desktop-Navbar](documents/features/navigationbar-desktop.png)
+
+* Smaller device Navigation bar
+
+![Mobile-Navbar](documents/features/navbar-small.png)
+
+* Internal buttons 
+  * Feature on all pages same style and size with 'press down' animation once clicked for user feedback.
+
+![Internal-buttons](documents/features/navigationbuttons.png)
+
+* Footer
+  * Again consistent in style and ccolour featuring social media links that open in a new browser tab.
+
+![Footer](documents/features/footer.png)
+
+
 ## Testing
 
 ---
@@ -104,19 +136,19 @@ Mobile version can be viewed below:
 ---
 
 ### Home
-![homepage](documents/index-lighthouse.PNG)
+![homepage](documents/lighthouse/index-lighthouse.PNG)
 
 ### Coaches
-![coacgespage](documents/coaches-lighthouse.PNG)
+![coacgespage](documents/lighthouse/coaches-lighthouse.PNG)
 
 ### Prices & Sessions
-![prices&sessionpage](documents/prices-lighthouse.PNG)
+![prices&sessionpage](documents/lighthouse/prices-lighthouse.PNG)
 
 ### Sign-Up
-![signpage](documents/signup-lighthouse.PNG)
+![signpage](documents/lighthouse/signup-lighthouse.PNG)
 
 ### Thankyou
-![thankyoupage](documents/thankyou-lighthouse.PNG)
+![thankyoupage](documents/lighthouse/thankyou-lighthouse.PNG)
 
 
 
