@@ -29,9 +29,9 @@ This site will provide potential players and their parents information about the
   * [LIGHTHOUSE](#lighthouse)
 
 
-* SOLVED BUGS AND ERRORS
+* [SOLVED BUGS AND ERRORS](#solved-bugs-and-errors)
    
-* UNSOLVED BUGS AND ERRORS
+* [UNSOLVED BUGS AND ERRORS](#unsolved-bugs-and-errors)
 
 * [LANGUAGES USED](#languages-used)
     * [PROGRAMS USED](#programs-used)
@@ -118,7 +118,7 @@ Each page follows a similar design style for all devices which includes a Naviga
 ![Mobile-Navbar](documents/features/navbar-small.png)
 
 * Internal buttons 
-  * Feature on all pages except once user on that specific page the button will not appear; same style and size with 'press down' animation once clicked for user feedback.
+  * Feature on all pages except once user on that specific page the button will not appear; same style and size with hover effect turning the background colour slightly darker for user feedback.
 
 ![Internal-buttons](documents/features/navigationbuttons.png)
 
@@ -182,18 +182,54 @@ Each page follows a similar design style for all devices which includes a Naviga
   * The dark blue was a good colour contrast and also a powerful colour. I used both hex and RGBA values as in some cases i required the colour opacity to fade on images.
   * White was present through for white space and black as it contrast's well and is easy to read. 
 
-## Font 
+## FONT 
   * The fonts I used within my site was Dosis for headings and signika for main body text, with back up fonts of Sans-serif. These fonts were located from Google fonts and imported oat the top of the CSS file.
 
-## Testing
+  ---
+
+## TESTING
+
+### Devices
+
+* I have tested my website on the following devices:
+
+  * Apple
+    * iPhone X
+    * iPhone 8 plus
+    * iPhone 11 Max
+    * iPhone 13 Max
+    * iPad Pro
+    * Mac Book 
+
+  * Laptops/Desktops
+    * Dell Inspiron 15 5000
+    * HP Pavilion 14
+    * LG Display screen 32inch
+
+  * Android 
+    * Huawei P40
+
+  * Browsers
+    * Chrome
+    * Edge
+    * Safari
+    * Firefox
+
+
 
 ## VALIDATORS
-* Tes
-* I ran my code through W3C CSS Validator. Initially i recieved some errors. 
+* I ran my HTML code through W3 HTML validator and received some errors.
+  * I had used in line styling for i frame which required changing via CSS
+  * The use of H1 within my page which i corrected with a h2 and increased font size. 
+  * i had used an id for multiple divs so i removed these and instead used class selector.
+* Once updates completed by me checked again and no errors found.
+
+
+* I ran my CSS code through W3C CSS Validator. Initially i recieved some errors. 
   * Due to incorrect spacing between numbers and px values which I corrected.
   * I had used the incorrect flex direction again corrected.
-  * I also removed code not needed for my google map.
-  * I checked with the validator again and found no errors. 
+  * I also removed code not needed for my google map.  
+* Once updates completed by me checked again and no errors found.
 
 
 ---
@@ -263,3 +299,5 @@ Each page follows a similar design style for all devices which includes a Naviga
 
 ## Other-Sources
 * Responsive navigation bar came from a youtube channel called CodingNepal
+* Kevin Powell YouTube video on how to fix header and footer position
+* CSS tricks website for a guide to flexbox
