@@ -157,6 +157,21 @@ Each page follows a similar design style for all devices which includes a Naviga
 
 ![sessions](documents/features/sessions.png)
 
+* The location section is a google map with the specified location already input, where customers can interact with the map and take directions.
+
+## Sign up Page
+
+* The sign up form takes president of the full screen intially with an attractive picture behind it
+ * Sign up form requires all fields to be filled out to be able to submit
+
+ ![signup](documents/features/form.png)
+
+ * Below the sign up form is contact information inlcuding phone, email and address.
+
+ ## Thank you page
+
+ * This is a very basic page containing a bakground image and overlaying text confirming the form has been submitted. 
+
 
 ## Testing
 
