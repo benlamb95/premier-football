@@ -38,7 +38,7 @@ This site will provide potential players and their parents information about the
 * [LANGUAGES USED](#languages-used)
     * [PROGRAMS USED](#programs-used)
     
-* DEPLOYMENT
+* [DEPLOYMENT](#deployment)
 
 * [Credits](#credits)
 
@@ -265,6 +265,8 @@ Each page follows a similar design style for all devices which includes a Naviga
 * For the coaches page I initially used flex box to align my content however wasnt getting the desired outcome as the items would try to wrap on different lines and wouldnt space how i wanted them.
   * To solve this I researched grid display and found a perfect solutuion for my problem on Stack-over flow.
 * I initially used the ID and class selector incorrectly. I removed the ID selector for multiple uses and used class selectors instead.
+* Internal buttons was created nestling an A tag within a button causing HTML validator to produce an error.
+  * Removed the translate effect on the button and styled with a simple background colour change when mouse hovered.
 * On apple Mobile devices the sign up button within my sign up form would show i much lighter colour than what was required. I change my colour back to the gold throughout my site and re styled the hover effect. 
 * Once the sign up form was completed and the user would press submit, it wouldnt take them to the thank you page. I realised that method="POST" was the issue after i used method="GET".
 
@@ -312,6 +314,15 @@ Each page follows a similar design style for all devices which includes a Naviga
 * [HTML](https://en.wikipedia.org/wiki/HTML5)
 * [CSS](https://en.wikipedia.org/wiki/CSS#CSS_3)
 
+
+## DEPLOYMENT
+
+* This site was deployed through GitHub pages. To do so follow the below steps:
+  * In the GitHub repository click on the settings tab
+  * Within the drop down menu you should find Pages (located second from bottom) 
+  * Within the source section drop down menu change this to master branch and ensure root is selected. Then press save
+  * This should prompt a ribbon to indicate the site has succesfully been deployed.
+
 ## Programs Used
 
 * GIT
@@ -337,7 +348,6 @@ Each page follows a similar design style for all devices which includes a Naviga
 
 * The content found within the prices section came from website Coachability
 * Icons located from fontawesome
-* Click effect on internal buttons source code from W3school
 * The coaches cards layout came from help on stackoverflow
 
 ## Media
@@ -347,6 +357,7 @@ Each page follows a similar design style for all devices which includes a Naviga
 * All coaches located from Istockphoto via a free download
 * Hero image with players playing football, prices and timetable image split into 5 sections, sign up page image and thank-you page image all from unsplash.com which again allows the use of free images. 
 * Scale of image on index page inspiration came from Codeinstitute Love Running project
+* Session times image again inspiration came from the love running project
 
 ## Other-Sources
 * Responsive navigation bar came from a youtube channel called CodingNepal
