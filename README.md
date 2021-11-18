@@ -266,8 +266,7 @@ Each page follows a similar design style for all devices which includes a Naviga
   * To solve this I researched grid display and found a perfect solutuion for my problem on Stack-over flow.
 * I initially used the ID and class selector incorrectly. I removed the ID selector for multiple uses and used class selectors instead.
 * Internal buttons was created nestling an A tag within a button causing HTML validator to produce an error.
-  * Removed the translate effect on the button and styled with a simple background colour change when mouse hovered.
-* On apple Mobile devices the sign up button within my sign up form would show i much lighter colour than what was required. I change my colour back to the gold throughout my site and re styled the hover effect. 
+  * Removed the translate effect on the button and styled with a simple background colour change when mouse hovered. 
 * Once the sign up form was completed and the user would press submit, it wouldnt take them to the thank you page. I realised that method="POST" was the issue after i used method="GET".
 
 
@@ -275,6 +274,7 @@ Each page follows a similar design style for all devices which includes a Naviga
 * Issue while testing in fire fox would cause my Players and Coaches boxes to flicker the full border rather than the applied border radius style, when the mouse would intially hover over them. This doesnt always happen however.
 * The navigation bar for smaller devices also doesnt appear on the thank you page. I tried resolving this by copying the exact code from all my other pages but this didnt work. I then tried creating a test page but again this wouldnt work.
   * To get around this issue I have added a link, to go to index page, within the text infront of my image on that page.
+* On apple Mobile devices the sign up button within my sign up form would show i much lighter colour than what was required. I change my colour back to the gold throughout my site and re styled the hover effect however it still displayed a lighter colour.
 
 
 ## Linking To User Stories
