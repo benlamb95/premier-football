@@ -636,12 +636,13 @@ OPTION {
     text-align: center;
     font-size: 100%;
     font-weight: 800;
-    background-color: #cfb108;
+    background-color: #FFD700;
     color: rgba(1, 14, 53, 0.8);
     cursor: pointer;
 }
 
 .signup-btn:hover {
+    color: #303245;
     background-color: #FFD700;
 }
 

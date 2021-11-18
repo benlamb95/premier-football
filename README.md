@@ -254,14 +254,18 @@ Each page follows a similar design style for all devices which includes a Naviga
 ![thankyoupage](documents/lighthouse/thankyou-lighthouse.PNG)
 
 
+## Solved Bugs and Errors
 
 
-# Languages Used
+## Unsolved Bugs and Errors
+
+
+## Languages Used
 
 * [HTML](https://en.wikipedia.org/wiki/HTML5)
 * [CSS](https://en.wikipedia.org/wiki/CSS#CSS_3)
 
-# Programs Used
+## Programs Used
 
 * GIT
   * For version control.
